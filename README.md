@@ -1,17 +1,11 @@
-### Hi, yamacinelli 👋
-  
-  <div align="center">
-  <a href="https://github.com/yamacinelli">
-  <img height="155px" src="https://github-readme-stats.vercel.app/api?username=yamacinelli&show_icons=true&theme=shades-of-purple&include_all_commits=true"/>
-  <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamacinelli&layout=compact&langs_count=8&theme=shades-of-purple"/>
-  </div>
+### Hi, Macinelli 👋
   
   <div align="center" style="display: inline_block">
     <br>
-  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" alt="Angular2" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+    <img align="center" alt="SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img align="center" alt="Angular2" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </div>
   
   <div align="center">
